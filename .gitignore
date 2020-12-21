@@ -29,3 +29,5 @@ buildNumber.properties
 *.rar
 
 .idea/
+client_id.json
+credentials.json
